@@ -1,0 +1,2 @@
+This adapter helps us to solve some issues with storages. It was made to be sure that data will be stored correctly even if storage doesn't exist ( old Safari browsers issue, where local storage didn't exist, as the example ). Give us the ability not to think about what kind of storage should be used. Also in this adapter added ability to set expires value for data from local and session storage and automatically delete it when the time of usage expires.
+# universal-storage-udapter
